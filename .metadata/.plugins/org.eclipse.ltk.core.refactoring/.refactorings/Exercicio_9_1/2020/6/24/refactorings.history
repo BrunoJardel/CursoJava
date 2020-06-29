@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;entities.Conta&apos; to &apos;Account&apos;&#x0D;&#x0A;- Original project: &apos;Exercicio_9_1&apos;&#x0D;&#x0A;- Original element: &apos;entities.Conta&apos;&#x0D;&#x0A;- Renamed element: &apos;entities.Account&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Conta&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;entities{Conta.java[Conta" matchStrategy="1" name="Account" qualified="false" references="true" similarDeclarations="false" stamp="1591646286830" textual="false" version="1.0"/>
+</session>
